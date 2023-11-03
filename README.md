@@ -5,7 +5,7 @@ Technical talk repo and resources for Microservices to Monolith: Lessons from NB
 ## Presented at
 - [MomentumCon](https://momentumdevcon.com), Oct 2023 @ Ohio, USA
 - [API World](https://apiworld.co/conference), Oct 2023 @ California, USA
- - [Recording](https://youtu.be/Hr7J_gS7lWU)
+    - [Recording](https://youtu.be/Hr7J_gS7lWU) 
 - Virtual API World, Nov 2023 @ California, USA
 
  
