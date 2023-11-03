@@ -5,7 +5,9 @@ Technical talk repo and resources for Microservices to Monolith: Lessons from NB
 ## Presented at
 - [MomentumCon](https://momentumdevcon.com), Oct 2023 @ Ohio, USA
 - [API World](https://apiworld.co/conference), Oct 2023 @ California, USA
+ - [Recording](https://youtu.be/Hr7J_gS7lWU)
 - Virtual API World, Nov 2023 @ California, USA
+
  
 ## Description
 When we set out to build NBA Topshot, we thought a microservices architecture was the right choice. But after 20 services and many headaches, we realised that sometimes the simplest approach is the best. We had over-engineered our code, slowed down our shipping speed, and created tech debt. When we started our next project, NFL All Day, we took a different approach and moved towards a near monolithic design. 
